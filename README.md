@@ -1,3 +1,6 @@
+This repo has been moved to the KDDI Technology organization. It will no longer be updated here. For the latest information, please go to the following URL:    
+[https://github.com/KDDI-Technology/SdlSamplePh2_5](https://github.com/KDDI-Technology/SdlSamplePh2_5)    
+
 # SdlSamplePh2_5
 
 ### 本アプリケーションの位置づけ
